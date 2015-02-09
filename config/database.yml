@@ -7,7 +7,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: ember-hello-world_test
+  database: test
   pool: 5
 
 production:
